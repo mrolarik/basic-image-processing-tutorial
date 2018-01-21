@@ -9,3 +9,4 @@ useful link: http://scikit-image.org/
 
 - [Load and show image](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/skimage-load-and-show-image.ipynb)
 - [Inside the image](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/inside-the-image.ipynb)
+- [Converting color to grayscale image](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/converting-color-to-grayscale-image.ipynb)
