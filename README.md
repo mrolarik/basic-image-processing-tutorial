@@ -11,4 +11,4 @@ useful link: http://scikit-image.org/
 - [Inside the image](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/inside-the-image.ipynb)
 - [Converting color to grayscale image](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/converting-color-to-grayscale-image.ipynb)  
 - [Converting grayscale to binary image](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/converting-grayscale-to-binary-image.ipynb)  
--[Thrsholding](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/Thresholding.ipynb)  
+- [Thrsholding](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/Thresholding.ipynb)  
