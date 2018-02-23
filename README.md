@@ -13,3 +13,7 @@ useful link: http://scikit-image.org/
 - [Converting grayscale to binary image](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/converting-grayscale-to-binary-image.ipynb)  
 - [Thresholding](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/Thresholding.ipynb)  
 - [Image convolution](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/image-convolution.ipynb)
+- [Character segmentation](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/Character-detection.ipynb)
+- [Digit segmentation](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/digit-segment.ipynb)
+
+-[Panorama image](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/panorama-image.ipynb)
