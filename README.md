@@ -16,4 +16,4 @@ useful link: http://scikit-image.org/
 - [Character segmentation](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/Character-detection.ipynb)
 - [Digit segmentation](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/digit-segment.ipynb)
 
--[Panorama image](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/panorama-image.ipynb)
+- [Panorama image](https://github.com/mrolarik/basic-image-processing-tutorial/blob/master/panorama-image.ipynb)
